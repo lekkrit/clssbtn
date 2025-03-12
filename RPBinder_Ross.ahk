@@ -1,4 +1,3 @@
-﻿#NoTrayIcon 
 #Include Class_ImageButton.ahk
 
 
